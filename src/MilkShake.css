@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+}
+
+.heading{
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Bree Serif', serif;
+}
+
+.imgStyle{
+    margin-top: 30px;
+    height: 400px;
+    margin-left: 170px;
+    border-radius: 8px;
+}
+
+.container{
+    margin-top: 22px;
+    background-color: aliceblue;
+    width: 600px;
+    margin-left: 450px;
+    border-radius: 22px;
+}
+
+.title{
+    color: #523d06;
+    text-align: center;
+    font-family: 'Bree Serif', serif;
+}
+
+.para{
+    color: #a35b10;
+    margin: 40px;
+    font-family: 'Bree Serif', serif;
+}
