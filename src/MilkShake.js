@@ -13,7 +13,6 @@ function MilkShake({title,description,imgUrl}) {
         <h2 className='para'>{description} </h2>  <br />
 
       </div>
-
       <br/>
       <br/>
 
